@@ -1,0 +1,12 @@
+Just Fooding
+123 E. Lechuga St.
+Carrotville, CA 99999
+
+
+Item                                            Subtotal
+Turnip Greens Vegetables                           1.29
+Sausage Pork                                       3.29
+
+
+
+Total: $15.98
