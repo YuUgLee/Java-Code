@@ -47,7 +47,6 @@ public abstract class Test {
 		  //while loop retrieves value and inserts into BigInteger array
 		  while (count<n.intValue()) {
 			arr[i]= new BigInteger(br.readLine());
-			System.out.println(arr[i]);
 			i++;
 		    count++;
 		    
