@@ -1,7 +1,7 @@
 
 import java.math.BigInteger;
 import java.util.*;
-import java.io.*;
+import java.io.*; 
 import java.util.*;
 public abstract class Test {
 	//GCD Method calculates number of times a pair of numbers can be factored
